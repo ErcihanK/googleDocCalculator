@@ -1,1 +1,1 @@
-# googleDocCalculator
+This code allows a user to do math inside of a google docs. Must have credentials.json and enter a valid ID inside of quickstart.py. Must also use pip to run this, some help here:https://developers.google.com/docs/api/quickstart/python
